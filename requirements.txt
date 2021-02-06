@@ -1,0 +1,2 @@
+jieba
+tensorflow==2.4.0
